@@ -2,5 +2,3 @@ Flask
 google-generativeai
 fpdf
 pandas
-sqlite3
-datetime
